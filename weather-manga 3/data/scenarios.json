@@ -1,4 +1,6 @@
 {
   "23_cloudy": { "title": "23_cloudy", "image": "images/23_cloudy.jpg" },
-  "24_cloudy": { "title": "24_cloudy", "image": "images/24_cloudy.jpg" }
+  "24_cloudy": { "title": "24_cloudy", "image": "images/24_cloudy.jpg" },
+  "25_cloudy": { "title": "25_cloudy", "image": "images/25_cloudy.jpg" },
+  "26_cloudy": { "title": "26_cloudy", "image": "images/26_cloudy.jpg" }
 }
